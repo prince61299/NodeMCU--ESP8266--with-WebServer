@@ -1,3 +1,5 @@
+//This is the complete code of the project. Here I used 3 LEDS and microcontroller board NodeMCU esp8266 with pin no. 5, 6, and 7
+//Created by Prince Kumar Kushwaha
 #include <ESP8266WiFi.h>
 #include <ESP8266mDNS.h>
 
